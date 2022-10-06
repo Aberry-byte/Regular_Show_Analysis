@@ -42,7 +42,7 @@ No.overall,No. inseason,Title,Animation directed by,Written and Storyboarded by,
 41,1,"""Stick Hockey""",Robert Alvarez,Sean Szeles and Kat Morris,"September 19, 2011",1009-041,2.00,3
 42,2,"""Bet to Be Blonde""",Robert Alvarez,Benton Connor and Calvin Wong,"September 26, 2011",1009-042,1.99,3
 43,3,"""Skips Strikes""",Robert Alvarez,Benton Connor and Calvin Wong,"October 3, 2011",1009-046,2.08,3
-44,45,"""Terror Tales of the Park""",Robert Alvarez,"J. G. Quintel, Andres Salaff, Ben Adams, Sean Szeles, and Kat MorrisShion Takeuchi and J. G. Quintel (story)","October 10, 2011",1009-0441009-045,1.97,3
+44,4,"""Terror Tales of the Park""",Robert Alvarez,"J. G. Quintel, Andres Salaff, Ben Adams, Sean Szeles, and Kat MorrisShion Takeuchi and J. G. Quintel (story)","October 10, 2011",1009-0441009-045,1.97,3
 46,6,"""Camping Can Be Cool""",Robert Alvarez,Sean Szeles and Kat Morris,"October 17, 2011",1009-048,2.05,3
 47,7,"""Slam Dunk""",Robert Alvarez,Andres Salaff and Ben Adams,"October 24, 2011",1009-047,2.08,3
 48,8,"""Cool Bikes""",Robert Alvarez,Benton Connor and Calvin Wong,"November 7, 2011",1009-050,1.83,3
@@ -80,13 +80,13 @@ No.overall,No. inseason,Title,Animation directed by,Written and Storyboarded by,
 80,40,"""Bad Kiss""",Robert Alvarez,Sean Szeles and Kat Morris,"September 3, 2012",1009-063,2.17,3
 81,12,"""Exit 9B""",Robert Alvarez (animation),"Calvin Wong, Toby Jones, Andres Salaff, and Madeline Queripel","October 1, 2012",1012-0811012-082,3.05,4
 83,3,"""Starter Pack""",Robert Alvarez (animation),Benton Connor and Hilary Florido,"October 8, 2012",1012-088,1.86,4
-84,45,"""Terror Tales of the Park II""",Robert Alvarez (animation),"Benton Connor, Hilary Florido, Sean Szeles, and Kat MorrisJ. G. Quintel and Mike Roth (story)","October 15, 2012",1012-0831012-084,3.11,4
+84,4,"""Terror Tales of the Park II""",Robert Alvarez (animation),"Benton Connor, Hilary Florido, Sean Szeles, and Kat MorrisJ. G. Quintel and Mike Roth (story)","October 15, 2012",1012-0831012-084,3.11,4
 86,6,"""Pie Contest""",Robert Alvarez (animation),Sarah Oleksyk and Hellen Jo,"October 22, 2012",1012-085,2.62,4
 87,7,"""150 Piece Kit""",Robert Alvarez (animation),Calvin Wong and Toby Jones,"October 29, 2012",1012-086,2.11,4
 88,8,"""Bald Spot""",Robert Alvarez (animation),Andres Salaff and Madeline Queripel,"November 12, 2012",1012-087,2.61,4
 89,9,"""Guy's Night""",Robert Alvarez (animation),Sean Szeles and Kat Morris,"November 19, 2012",1012-089,2.46,4
 90,10,"""One Pull Up""",Robert Alvarez (animation),Sarah Oleksyk and Hellen Jo,"November 26, 2012",1012-090,2.14,4
-91,1112,"""The Christmas Special""",J. G. Quintel and Mike RothRobert Alvarez (animation),"Sean Szeles, Kat Morris, Benton Connor, and Hilary Florido","December 3, 2012",1012-0931012-094,2.71,4
+91,11,"""The Christmas Special""",J. G. Quintel and Mike RothRobert Alvarez (animation),"Sean Szeles, Kat Morris, Benton Connor, and Hilary Florido","December 3, 2012",1012-0931012-094,2.71,4
 93,13,"""T.G.I. Tuesday""",Robert Alvarez (animation),Calvin Wong and Toby Jones,"January 7, 2013",1012-091,2.81,4
 94,14,"""Firework Run""",Robert Alvarez (animation),Andres Salaff and Madeline Queripel,"January 14, 2013",1012-092,2.24,4
 95,15,"""The Longest Weekend""",Robert Alvarez (animation),Sarah Oleksyk and Hellen Jo,"January 21, 2013",1012-095,2.51,4
@@ -122,11 +122,11 @@ No.overall,No. inseason,Title,Animation directed by,Written and Storyboarded by,
 125,5,"""Wall Buddy""",Robert Alvarez (animation),Calvin Wong and Minty Lewis,"September 23, 2013",1017-129,2.12,5
 126,6,"""A Skips in Time""",Robert Alvarez (animation),Calvin Wong and Toby Jones,"September 30, 2013",1017-131,1.94,5
 127,7,"""Survival Skills""",Robert Alvarez (animation),Minty Lewis,"October 14, 2013",1017-134,1.87,5
-128,89,"""Terror Tales of the Park III""",Robert Alvarez (animation),"Calvin Wong, Toby Jones, Benton Connor, and Andres SalaffJ. G. Quintel (story)","October 21, 2013",1017-1211017-122,2.29,5
+128,8,"""Terror Tales of the Park III""",Robert Alvarez (animation),"Calvin Wong, Toby Jones, Benton Connor, and Andres SalaffJ. G. Quintel (story)","October 21, 2013",1017-1211017-122,2.29,5
 130,10,"""Tants""",Robert Alvarez (animation),Hilary Florido and Madeline Queripel,"November 4, 2013",1017-133,2.07,5
 131,11,"""Bank Shot""",Robert Alvarez (animation),Owen Dennis and Sarah Oleksyk,"November 11, 2013",1017-135,1.99,5
 132,12,"""Power Tower""",Robert Alvarez (animation),Benton Connor and Andres Salaff,"November 18, 2013",1017-136,2.09,5
-133,1314,"""The Thanksgiving Special""",J. G. Quintel and Mike RothRobert Alvarez (animation),"Calvin Wong, Toby Jones, Benton Connor, and Andres Salaff","November 25, 2013",1017-1261017-127,3.04,5
+133,13,"""The Thanksgiving Special""",J. G. Quintel and Mike RothRobert Alvarez (animation),"Calvin Wong, Toby Jones, Benton Connor, and Andres Salaff","November 25, 2013",1017-1261017-127,3.04,5
 135,15,"""The Heart of a Stuntman""",Robert Alvarez (animation),Calvin Wong and Minty Lewis,"December 2, 2013",1017-137,2.03,5
 136,16,"""New Year's Kiss""",Robert Alvarez (animation),Hilary Florido and Madeline Queripel,"December 31, 2013",1017-128,1.84,5
 137,17,"""Dodge This""",Robert Alvarez (animation),Benton Connor and Andres Salaff,"January 13, 2014",1017-132,2.05,5
@@ -136,7 +136,7 @@ No.overall,No. inseason,Title,Animation directed by,Written and Storyboarded by,
 141,21,"""Journey to the Bottom of the Crash Pit""",Robert Alvarez (animation),Benton Connor and Sarah Oleksyk,"March 3, 2014",1017-140,1.48,5
 142,22,"""Saving Time""",Robert Alvarez (animation),Andres Salaff and Ryan Pequin,"March 10, 2014",1017-146,1.86,5
 143,23,"""Guitar of Rock""",Robert Alvarez (animation),Andres Salaff and Ryan Pequin,"March 17, 2014",1017-141,2.05,5
-144,2425,"""Skips' Story""",Robert Alvarez (animation),Calvin Wong and Minty Lewis,"April 14, 2014",1017-1471017-152,2.72,5
+144,24,"""Skips' Story""",Robert Alvarez (animation),Calvin Wong and Minty Lewis,"April 14, 2014",1017-1471017-152,2.72,5
 146,26,"""Return of Mordecai and the Rigbys""",Robert Alvarez (animation),Calvin Wong and Minty Lewis,"April 21, 2014",1017-142,2.67,5
 147,27,"""Bad Portrait""",Robert Alvarez (animation),Owen Dennis and Toby Jones,"April 28, 2014",1017-143,1.96,5
 148,28,"""Video 101""",Robert Alvarez (animation),Benton Connor and Sarah Oleksyk,"May 5, 2014",1017-145,2.14,5
@@ -155,11 +155,11 @@ No.overall,No. inseason,Title,Animation directed by,Written and Storyboarded by,
 161,1,"""Maxin' and Relaxin'""",Robert Alvarez (animation),Calvin Wong and Ryan Pequin,"October 9, 2014",1029-163,2.19,6
 162,2,"""New Bro on Campus""",Robert Alvarez (animation),Benton Connor and Madeline Queripel,"October 16, 2014",1029-164,2.24,6
 163,3,"""Daddy Issues""",Robert Alvarez (animation),Benton Connor and Sarah Oleksyk,"October 23, 2014",1029-165,1.71,6
-164,45,"""Terror Tales of the Park IV""",Robert Alvarez (animation),"Toby Jones, Owen Dennis, Sarah Oleksyk, and Minty LewisJ. G. Quintel and Mike Roth (story)","October 29, 2014",1029-1611029-162,1.74,6
+164,4,"""Terror Tales of the Park IV""",Robert Alvarez (animation),"Toby Jones, Owen Dennis, Sarah Oleksyk, and Minty LewisJ. G. Quintel and Mike Roth (story)","October 29, 2014",1029-1611029-162,1.74,6
 166,6,"""The End of Muscle Man""",Robert Alvarez (animation),Minty Lewis and Sarah Oleksyk,"October 30, 2014",1029-167,1.38,6
 167,7,"""Lift with Your Back""",Robert Alvarez (animation),Toby Jones and Owen Dennis,"November 6, 2014",1029-166,1.71,6
 168,8,"""Eileen Flat Screen""",Robert Alvarez (animation),Minty Lewis and Sarah Oleksyk,"November 13, 2014",1029-172,1.60,6
-169,910,"""The Real Thomas""",J. G. QuintelRobert Alvarez (animation),Calvin Wong and Ryan Pequin,"November 20, 2014",1029-169 1029-170,1.71,6
+169,9,"""The Real Thomas""",J. G. QuintelRobert Alvarez (animation),Calvin Wong and Ryan Pequin,"November 20, 2014",1029-169 1029-170,1.71,6
 171,11,"""The White Elephant Gift Exchange""",Robert Alvarez (animation),Benton Connor and Madeline Queripel,"December 4, 2014",1029-168,2.12,6
 172,12,"""Merry Christmas Mordecai""",Robert Alvarez (animation),Benton Connor and Madeline Queripel,"December 4, 2014",1029-173,2.12,6
 173,13,"""Sad Sax""",Robert Alvarez (animation),Ryan Pequin,"January 8, 2015",1029-175,1.85,6
@@ -175,7 +175,7 @@ No.overall,No. inseason,Title,Animation directed by,Written and Storyboarded by,
 183,23,"""Party Horse""",Robert Alvarez (animation),Benton Connor and Madeline Queripel,"March 19, 2015",1029-183,1.49,6
 184,24,"""Men in Uniform""",Robert Alvarez (animation),Calvin Wong and Casey Crowe,"March 26, 2015",1029-184,1.95,6
 185,25,"""Garage Door""",Robert Alvarez (animation),Benton Connor and Madeline Queripel,"April 2, 2015",1029-188,1.63,6
-186,2627,"""Brilliant Century Duck Crisis Special""",Robert Alvarez (animation),Toby Jones and Owen Dennis,"April 9, 2015",1029-190 1029-192,1.99,6
+186,26,"""Brilliant Century Duck Crisis Special""",Robert Alvarez (animation),Toby Jones and Owen Dennis,"April 9, 2015",1029-190 1029-192,1.99,6
 188,28,"""Not Great Double Date""",Robert Alvarez (animation),Toby Jones and Owen Dennis,"June 22, 2015",1029-186,1.66,6
 189,29,"""Death Kwon Do-Livery""",Robert Alvarez (animation),Calvin Wong and Casey Crowe,"June 23, 2015",1029-189,1.70,6
 190,30,"""Lunch Break""",Robert Alvarez (animation),Minty Lewis and Ryan Pequin,"June 24, 2015",1029-191,1.60,6
@@ -184,11 +184,11 @@ No.overall,No. inseason,Title,Animation directed by,Written and Storyboarded by,
 193,2,"""The Parkie Awards""",Robert Alvarez,Madeline Queripel and Alex Cline,"August 6, 2015",1035-196,1.60,7
 194,3,"""The Lunch Club""",Robert Alvarez,Calvin Wong and Casey Crowe,"August 13, 2015",1035-197,1.55,7
 195,4,"""Local News Legends""",Robert Alvarez,Madeline Queripel and Alex Cline,"August 20, 2015",1035-200,1.49,7
-196,56,"""The Dome Experiment""",Robert Alvarez,"Toby Jones, Owen Dennis, Minty Lewis, and Ryan Pequin","August 27, 2015",1035-1981035-199,1.60,7
+196,5,"""The Dome Experiment""",Robert Alvarez,"Toby Jones, Owen Dennis, Minty Lewis, and Ryan Pequin","August 27, 2015",1035-1981035-199,1.60,7
 198,7,"""Birthday Gift""",Robert Alvarez,Benton Connor and Sam Spina,"September 3, 2015",1035-201,1.43,7
 199,8,"""Cat Videos""",Robert Alvarez,Calvin Wong and Casey Crowe,"September 10, 2015",1035-202,1.31,7
 200,9,"""Struck by Lightning""",Robert Alvarez,Toby Jones and Owen Dennis,"September 17, 2015",1035-203,1.39,7
-201,1011,"""Terror Tales of the Park V""",Robert Alvarez,"Toby Jones, Owen Dennis, Ryan Pequin, and Minty LewisJ. G. Quintel (story)","October 29, 2015",1035-1931035-194,1.31,7
+201,10,"""Terror Tales of the Park V""",Robert Alvarez,"Toby Jones, Owen Dennis, Ryan Pequin, and Minty LewisJ. G. Quintel (story)","October 29, 2015",1035-1931035-194,1.31,7
 203,12,"""The Return of Party Horse""",Robert Alvarez,Minty Lewis and Ryan Pequin,"November 9, 2015",1035-204,1.03,7
 204,13,"""Sleep Cycle""",Robert Alvarez,Madeline Queripel and Alex Cline,"November 10, 2015",1035-205,1.32,7
 205,14,"""Just Friends""",Robert Alvarez,Calvin Wong and Casey Crowe,"November 11, 2015",1035-206,1.26,7
@@ -215,7 +215,7 @@ No.overall,No. inseason,Title,Animation directed by,Written and Storyboarded by,
 226,35,"""Lame Lockdown""",Robert Alvarez,Benton Connor and Sam Spina,"June 9, 2016",1035-230,1.02,7
 227,36,"""VIP Members Only""",Robert Alvarez,Madeline Queripel and Alex Cline,"June 16, 2016",1035-231,0.98,7
 228,37,"""Deez Keys""",Robert Alvarez,Casey Crowe and Gideon Chase,"June 23, 2016",1035-232,1.18,7
-229,3839,"""Rigby's Graduation Day Special""",Robert Alvarez,"Toby Jones, Owen Dennis, Ryan Pequin, and Minty Lewis","June 30, 2016",1035-2281035-229,1.10,7
+229,38,"""Rigby's Graduation Day Special""",Robert Alvarez,"Toby Jones, Owen Dennis, Ryan Pequin, and Minty Lewis","June 30, 2016",1035-2281035-229,1.10,7
 231,1,"""One Space Day at a Time""",Robert Alvarez,Owen Dennis and Sean Glaze,"September 26, 2016",1043-234,1.14,8
 232,2,"""Cool Bro Bots""",Robert Alvarez,Benton Connor and Sam Spina,"September 26, 2016",1043-235,1.14,8
 233,3,"""Welcome to Space""",Robert Alvarez,Madeline Queripel and Alex Cline,"September 27, 2016",1043-236,0.96,8
@@ -234,12 +234,12 @@ No.overall,No. inseason,Title,Animation directed by,Written and Storyboarded by,
 246,16,"""New Beds""",Robert Alvarez,Madeline Queripel and Alex Cline,"October 13, 2016",1043-251,1.15,8
 247,17,"""Mordeby and Rigbecai""",Robert Alvarez,Casey Crowe and Gideon Chase,"October 14, 2016",1043-252,0.88,8
 248,18,"""Alpha Dome""",Robert Alvarez,Owen Dennis and Sean Glaze,"October 20, 2016",1043-253,0.99,8
-249,1920,"""Terror Tales of the Park VI""",Robert Alvarez and Brian Sheesley,"Sean Glaze, Owen Dennis, Minty Lewis, and Ryan PequinJ. G. Quintel (story)","October 27, 2016",1043-2441043-245,1.05,8
+249,19,"""Terror Tales of the Park VI""",Robert Alvarez and Brian Sheesley,"Sean Glaze, Owen Dennis, Minty Lewis, and Ryan PequinJ. G. Quintel (story)","October 27, 2016",1043-2441043-245,1.05,8
 251,21,"""The Ice Tape""",Robert Alvarez,Madeline Queripel and Alex Cline,"November 3, 2016",1043-256,0.92,8
 252,22,"""The Key to the Universe""",Robert Alvarez,Casey Crowe and Gideon Chase,"November 10, 2016",1043-257,1.02,8
 253,23,"""No Train No Gain""",Robert Alvarez,Owen Dennis and Sean Glaze,"November 17, 2016",1043-258,0.99,8
-254,2425,"""Christmas in Space""",Robert Alvarez and Brian Sheesley,"Minty Lewis, Ryan Pequin, Benton Connor, and Sam Spina","December 1, 2016",1043-254A1043-254B,0.92,8
+254,24,"""Christmas in Space""",Robert Alvarez and Brian Sheesley,"Minty Lewis, Ryan Pequin, Benton Connor, and Sam Spina","December 1, 2016",1043-254A1043-254B,0.92,8
 256,26,"""Kill 'Em with Kindness""",Robert Alvarez and Jeff Hall,Minty Lewis and Ryan Pequin,"January 14, 2017",1043-259,1.08,8
 257,27,"""Meet the Seer""",Robert Alvarez and Jeff Hall,Benton Connor and Sam Spina,"January 14, 2017",1043-260,1.08,8
 258,28,"""Cheer Up Pops""",Robert Alvarez and Jeff Hall,Casey Crowe and Gideon Chase,"January 16, 2017",1043-261,1.33,8
-259,293031,"""A Regular Epic Final Battle""","Robert Alvarez, Richard Collado and Jeff Hall","J.G. Quintel, Madeline Queripel, Alex Cline, Minty Lewis, Ryan Pequin, Andres Salaff, Benton Connor, Owen Dennis, and Sam Spina","January 16, 2017",1043-2621043-264A1043-264B,1.33,8
+259,29,"""A Regular Epic Final Battle""","Robert Alvarez, Richard Collado and Jeff Hall","J.G. Quintel, Madeline Queripel, Alex Cline, Minty Lewis, Ryan Pequin, Andres Salaff, Benton Connor, Owen Dennis, and Sam Spina","January 16, 2017",1043-2621043-264A1043-264B,1.33,8
